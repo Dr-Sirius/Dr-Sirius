@@ -11,7 +11,7 @@ Hi whoever is reading my profile! My name Ayden and I'm currently a junior compu
 
 
 
-I have plenty projects keeping me busy! Currently <!--START_SECTION:activity--> <!--END_SECTION:activity--> is keeping me busy!
+I have plenty projects keeping me busy! Currently is keeping me busy!
 
 <!--
 **Dr-Sirius/Dr-Sirius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
