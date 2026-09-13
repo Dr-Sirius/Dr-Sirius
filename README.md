@@ -1,6 +1,4 @@
-## Hi Vault Tec Calling <img width="90" height="34" alt="vaulttec" src="https://github.com/user-attachments/assets/ed93f89e-3bc2-47eb-9272-9f2e7cbee631" />
-
-!
+## Hi Vault Tec Calling! <img width="90" height="34" alt="vaulttec" src="https://github.com/user-attachments/assets/ed93f89e-3bc2-47eb-9272-9f2e7cbee631" />
 Hi whoever is reading my profile! My name Ayden and I'm currently a junior computer science student @ Millersville University. My current goals are to:
 - Learn all I can about computer science and professional development
 - Get a job in the games industry
