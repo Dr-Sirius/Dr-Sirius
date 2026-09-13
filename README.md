@@ -3,10 +3,8 @@ Hi whoever is reading my profile! My name Ayden and I'm currently a junior compu
 - Learn all I can about computer science and professional development
 - Get a job in the games industry
 - Build a game that people cry after playing.
-
+  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dr-Sirius&layout=compact&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Dr-Sirius&layout=compact&langs_count=6&hide_values=true&theme=dark)
-
-
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 
 
