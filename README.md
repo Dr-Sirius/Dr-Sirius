@@ -2,7 +2,7 @@
 Hi whoever is reading my profile! My name Ayden and I'm currently a junior computer science student @ Millersville University. My current goals are to:
 - Learn all I can about computer science and professional development
 - Get a job in the games industry
-- Build a game that people cry after playing.
+- Build a game that people cry after playing (odd I know :) ).
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dr-Sirius&layout=compact&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Dr-Sirius&layout=compact&langs_count=6&hide_values=true&theme=dark)
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
